@@ -1,0 +1,6 @@
+[registries]
+cloudsmith = { index = "https://example.com/index.git" }
+
+[net]
+git-fetch-with-cli = true
+
